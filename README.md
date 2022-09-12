@@ -1,2 +1,2 @@
 # TextAnalyzer
-change your text to uppercase (Reactjs)
+Change your text to uppercase (Reactjs)
